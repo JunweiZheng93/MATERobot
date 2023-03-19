@@ -158,6 +158,10 @@ bash tools/dist_test.sh materobot/configs/matevit_vit-t_multi-task.py work_dirs/
 
 Please refer to [inference_demo.py](tools/inference_demo.py)
 
+## Checkpoints
+
+Download from [here](https://drive.google.com/drive/folders/1yN-lUu5DLcIYmWum6cMlrkWW5b2juPZB?usp=sharing)
+
 ## Citation
 
 If you are interested in this work, please cite as below:
