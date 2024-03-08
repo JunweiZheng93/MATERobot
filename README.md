@@ -15,7 +15,7 @@
 
 ## Project Homepage
 
-For more information about the project, please refer to our [project homepage](https://junweizheng93.github.io/publications/MATERobot/MATERobot.html).
+This project is now at ICRA 2024! For more information about the project, please refer to our [project homepage](https://junweizheng93.github.io/publications/MATERobot/MATERobot.html).
 
 ## Setup
 
@@ -167,10 +167,10 @@ Download from [here](https://drive.google.com/drive/folders/1yN-lUu5DLcIYmWum6cM
 If you are interested in this work, please cite as below:
 
 ```text
-@article{zheng2023materobot,
+@inproceedings{zheng2024materobot,
   title={MATERobot: Material Recognition in Wearable Robotics for People with Visual Impairments},
   author={Zheng, Junwei and Zhang, Jiaming and Yang, Kailun and Peng, Kunyu and Stiefelhagen, Rainer},
-  journal={arXiv preprint arXiv:2302.14595},
-  year={2023}
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2024}
 }
 ```
