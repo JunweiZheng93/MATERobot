@@ -15,7 +15,7 @@
 
 ## Project Homepage
 
-This project is now at ICRA 2024! For more information about the project, please refer to our [project homepage](https://junweizheng93.github.io/publications/MATERobot/MATERobot.html).
+This project has been selected as the Best Paper Finalist on Human-Robot Interaction at ICRA 2024! For more information about the project, please refer to our [project homepage](https://junweizheng93.github.io/publications/MATERobot/MATERobot.html).
 
 ## Setup
 
