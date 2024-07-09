@@ -168,9 +168,9 @@ If you are interested in this work, please cite as below:
 
 ```text
 @inproceedings{zheng2024materobot,
-  title={MATERobot: Material Recognition in Wearable Robotics for People with Visual Impairments},
-  author={Zheng, Junwei and Zhang, Jiaming and Yang, Kailun and Peng, Kunyu and Stiefelhagen, Rainer},
-  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2024}
+title={MATERobot: Material Recognition in Wearable Robotics for People with Visual Impairments},
+author={Zheng, Junwei and Zhang, Jiaming and Yang, Kailun and Peng, Kunyu and Stiefelhagen, Rainer},
+booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+year={2024}
 }
 ```
