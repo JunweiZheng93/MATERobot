@@ -13,11 +13,11 @@
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" /></a>
 </p>
 
-## Project Homepage
+## 🏡 Project Homepage
 
 This project has been selected as the Best Paper Finalist on Human-Robot Interaction at ICRA 2024! For more information about the project, please refer to our [project homepage](https://junweizheng93.github.io/publications/MATERobot/MATERobot.html).
 
-## Setup
+## 🔧 Setup
 
 ```shell
 # create virtual environment
@@ -32,7 +32,7 @@ mim install mmcv==2.0.0rc3
 pip install -r requirements.txt
 ```
 
-## Prepare datasets
+## 📚 Prepare datasets
 
 The overall folder structure is shown below:
 
@@ -88,12 +88,12 @@ python tools/dms_download_tools/prepare_DMS_labels.py /home/usr_name/project_roo
 
 Please prepare coco-stuff10k according to [this page](https://github.com/open-mmlab/mmsegmentation/blob/1.x/docs/en/user_guides/2_dataset_prepare.md#coco-stuff-10k).
 
-## Prepare pretrained backbone
+## 🖥 Prepare pretrained backbone
 
 Please download the pretrained backbone model [here](https://drive.google.com/drive/folders/1TIF5ZUXWRB7688l8l2-KVBJGZVzBCuaV?usp=share_link)
 and place the model to `pretrain` folder under the project root.
 
-## Usage
+## 📦 Usage
 
 ### Train
 
@@ -158,11 +158,11 @@ bash tools/dist_test.sh materobot/configs/matevit_vit-t_multi-task.py work_dirs/
 
 Please refer to [inference_demo.py](tools/inference_demo.py)
 
-## Checkpoints
+## 🖥 Checkpoints
 
 Download from [here](https://drive.google.com/drive/folders/1yN-lUu5DLcIYmWum6cMlrkWW5b2juPZB?usp=sharing)
 
-## Citation
+## 📖 Citation
 
 If you are interested in this work, please cite as below:
 
